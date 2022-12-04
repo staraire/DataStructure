@@ -144,7 +144,7 @@ int main(void)
                     "ignoreFailures": true
                 }
             ],
-            "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+            "preLaunchTask": "C/C++: gcc.exe 生成活动文件"
         }
     ]
 }
@@ -152,7 +152,7 @@ int main(void)
 ```
 
 因为是调试，所以依赖`exe`文件，因此我们需要修改`program`后面的值
-`"preLaunchTask": "C/C++: g++.exe 生成活动文件"`是调试必须要等待编译之后
+`"preLaunchTask": "C/C++: gcc.exe 生成活动文件"`是调试必须要等待编译之后
 
 配置完之后切到`main`所在文件，按`F5`开始调试执行
 
