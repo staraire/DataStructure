@@ -2,7 +2,7 @@
 
 ## 介绍
 
-数据结构相关代码
+数据结构与算法学习
 
 ## 目录结构
 
@@ -29,6 +29,10 @@
           - [第七章查找技术.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/07%E7%AC%AC%E4%B8%83%E7%AB%A0%E6%9F%A5%E6%89%BE%E6%8A%80%E6%9C%AF.md)
           - [第八章排序技术.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/08%E7%AC%AC%E5%85%AB%E7%AB%A0%E6%8E%92%E5%BA%8F%E6%8A%80%E6%9C%AF.md)
   - Practice 练习题
+    - LeetCode 力扣刷题
+      - LeetBook 
+        - 数据结构
+          - 数据结构入门 
     - WD 王道考研复习指导课后习题
 - Project 在这个文件夹下练习写程序
   - .vscode 调试配置json文件
