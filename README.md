@@ -21,8 +21,8 @@
         - [html](https://github.com/star-air/DataStructure/tree/main/CoursePractice/CollegeCourse/QDU/note/html) 网页 可直接查看
         - [markdown](https://github.com/star-air/DataStructure/tree/main/CoursePractice/CollegeCourse/QDU/note/markdown) 笔记原稿
           - [第一章绪论.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/01%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%BB%AA%E8%AE%BA.md) `over` 
-          - [第二章线性表.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/02%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%BA%BF%E6%80%A7%E8%A1%A8.md) `ing`
-          - [第三章栈和队列.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/03%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97.md) `ing` 
+          - [第二章线性表.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/02%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%BA%BF%E6%80%A7%E8%A1%A8.md) `over`
+          - [第三章栈和队列.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/03%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97.md) `over` 
           - [第四章串数组和广义表.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/04%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B8%B2%E6%95%B0%E7%BB%84%E5%92%8C%E5%B9%BF%E4%B9%89%E8%A1%A8.md) `ing`
           - [第五章树.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/05%E7%AC%AC%E4%BA%94%E7%AB%A0%E6%A0%91.md)
           - [第六章图.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/06%E7%AC%AC%E5%85%AD%E7%AB%A0%E5%9B%BE.md)
@@ -40,6 +40,10 @@
 ## 2022年12月
 
 这个月尽量青岛大学数据结构笔记能完结吧
+
+- 2022-12-11
+
+青岛大学数据结构笔记 添加 [第三章栈和队列.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/03%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97.md)
 
 - 2022-12-10 
 
