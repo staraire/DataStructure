@@ -32,7 +32,9 @@
     - LeetCode 力扣刷题
       - LeetBook 
         - 数据结构
-          - 数据结构入门 
+          - [数据结构入门](https://github.com/star-air/DataStructure/tree/main/CoursePractice/Practice/LeetCode/LeetBook/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%85%A5%E9%97%A8)
+          - 数据结构基础
+      - 题库
     - WD 王道考研复习指导课后习题
 - Project 在这个文件夹下练习写程序
   - .vscode 调试配置json文件
