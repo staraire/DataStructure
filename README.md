@@ -9,10 +9,10 @@
 - BasicDataStructure 实现一些基本的数据结构
 - CoursePractice 课程和练习
   - CollegeCourse 大学课程
-    - ZJU 浙江大学数据结构 陈越
+    - ZJU [浙江大学数据结构 陈越](https://www.bilibili.com/video/BV1Kb41127fT/)
       - code 代码
       - note 笔记
-    - QDU 青岛大学数据结构 王卓
+    - QDU [青岛大学数据结构 王卓](https://www.bilibili.com/video/BV1nJ411V7bd/)
       - code 代码
         - [02LinearList](https://github.com/star-air/DataStructure/tree/main/CoursePractice/CollegeCourse/QDU/code/02LinearList) 线性表
           - [01顺序表简单实现](https://github.com/star-air/DataStructure/tree/main/CoursePractice/CollegeCourse/QDU/code/02LinearList/01%E9%A1%BA%E5%BA%8F%E8%A1%A8%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0)
@@ -36,15 +36,34 @@
           - 数据结构基础
       - 分类经典题
         - 链表
-          - 链表简单中等题
+          - [链表简单中等题](https://github.com/star-air/DataStructure/tree/main/CoursePractice/Practice/LeetCode/%E5%88%86%E7%B1%BB%E7%BB%8F%E5%85%B8%E9%A2%98/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8%E7%AE%80%E5%8D%95%E4%B8%AD%E7%AD%89%E9%A2%98)
       - 题库
     - WD 王道考研复习指导课后习题
+  - NetworkCourse 收集的网络课程
+    - [郝斌数据结构自学教程（78集全）上课板书和源代码查看简介](https://www.bilibili.com/video/BV1vT411P7ao/)
+      - [【郝斌】-数据结构入门-P35~P44无电音版](https://www.bilibili.com/video/BV1oQ4y1A7oX/)
+    - [数据结构与算法Python版-北京大学-陈斌](https://www.bilibili.com/video/BV1gy4y1E7M5/)
+    - [【数据结构部分】李慧芹老师嵌入式Linux](https://www.bilibili.com/video/BV1zY4y1e7z3/)
+    - [[2022]YQ嵌入式03 数据结构](https://www.bilibili.com/video/BV16R4y1y7FC)
+    - [UP从0到1带你手撕数据结构全集(C语言版)](https://www.bilibili.com/video/BV1W64y1z7jh)
+    - [数据结构与算法 已完结（CLion 2022 最新版）4K蓝光画质+杜比音效 全程高能](https://www.bilibili.com/video/BV13W4y127Ey)
+    - [懒猫老师-数据结构](https://www.bilibili.com/video/BV1PJ411J7fk/)
 - Project 在这个文件夹下练习写程序
   - .vscode 调试配置json文件
   - src 存放写的程序
 
 
-## 进度
+## 更新进度
+
+## 2023年1月
+
+- 2023-01-03
+
+🐏了，躺了两个星期，这周尽量把树给完结吧
+
+青岛大学数据结构笔记 添加 [第五章树.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/05%E7%AC%AC%E4%BA%94%E7%AB%A0%E6%A0%91.md)
+
+新加 `NetworkCourse 收集的网络课程` ，等课程系统学完，看百家之言巩固。
 
 ## 2022年12月
 
