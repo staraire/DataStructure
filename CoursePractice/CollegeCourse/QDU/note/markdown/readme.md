@@ -53,12 +53,3 @@ $$程序 = 数据结构 + 算法$$
 
 
 
-
-## 其他资源
-
-### 视频
-
-- [郝斌数据结构自学教程（78集全）上课板书和源代码查看简介](https://www.bilibili.com/video/BV1vT411P7ao/)
-    - [【郝斌】-数据结构入门-P35~P44无电音版](https://www.bilibili.com/video/BV1oQ4y1A7oX/)
-
-- [(二次巩固)懒猫老师-数据结构](https://www.bilibili.com/video/BV1PJ411J7fk/)
