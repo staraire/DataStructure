@@ -26,7 +26,7 @@
           - [第四章串数组和广义表.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/04%E7%AC%AC%E5%9B%9B%E7%AB%A0%E4%B8%B2%E6%95%B0%E7%BB%84%E5%92%8C%E5%B9%BF%E4%B9%89%E8%A1%A8.md) `over`
           - [第五章树.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/05%E7%AC%AC%E4%BA%94%E7%AB%A0%E6%A0%91.md) `over`
           - [第六章图.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/06%E7%AC%AC%E5%85%AD%E7%AB%A0%E5%9B%BE.md) `over`
-          - [第七章查找技术.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/ 07%E7%AC%AC%E4%B8%83%E7%AB%A0%E6%9F%A5%E6%89%BE%E6%8A%80%E6%9C%AF.md) `over`
+          - [第七章查找技术.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/07%E7%AC%AC%E4%B8%83%E7%AB%A0%E6%9F%A5%E6%89%BE%E6%8A%80%E6%9C%AF.md) `over`
           - [第八章排序技术.md](https://github.com/star-air/DataStructure/blob/main/CoursePractice/CollegeCourse/QDU/note/markdown/08%E7%AC%AC%E5%85%AB%E7%AB%A0%E6%8E%92%E5%BA%8F%E6%8A%80%E6%9C%AF.md) `over`
   - Practice 练习题
     - LeetCode 力扣刷题
